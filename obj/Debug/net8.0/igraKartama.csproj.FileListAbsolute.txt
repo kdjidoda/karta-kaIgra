@@ -1,0 +1,14 @@
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\igraKartama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\igraKartama.AssemblyInfoInputs.cache
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\igraKartama.AssemblyInfo.cs
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\igraKartama.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\net8.0\igraKartama.exe
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\net8.0\igraKartama.deps.json
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\net8.0\igraKartama.runtimeconfig.json
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\net8.0\igraKartama.dll
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\bin\Debug\net8.0\igraKartama.pdb
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\igraKartama.dll
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\refint\igraKartama.dll
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\igraKartama.pdb
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\igraKartama.genruntimeconfig.cache
+C:\Users\Učenik\source\repos\igraKartama\igraKartama\obj\Debug\net8.0\ref\igraKartama.dll
